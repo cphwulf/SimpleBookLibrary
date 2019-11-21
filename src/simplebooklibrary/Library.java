@@ -81,6 +81,4 @@ public class Library implements Comparable<Object>{
 		msg += longitude + "; ";
 		return msg;
 	}
-
-	
 }

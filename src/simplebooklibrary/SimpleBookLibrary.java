@@ -8,9 +8,9 @@ public class SimpleBookLibrary {
 		String filename = "Data/biblioteker.csv";
 		ArrayList<Library> librarys = new ArrayList<>();
 		ArrayList<Library> sortOnLatlibrarys = new ArrayList<>();
-		ArrayList<Library> sortOnLatLonglibrarys = new ArrayList<>();
 		ImportLibrariesFromFile myImp = new ImportLibrariesFromFile(filename);
 		librarys = myImp.importFromFile();
+		ArrayList<Library> sortOnLatLonglibrarys = new ArrayList<>(librarys);
 		System.out.println(" --- NOSORT ----");
 		for (int i = 0;i < 14;i++) {
 			System.out.println(librarys.toArray()[i]);
@@ -20,6 +20,20 @@ public class SimpleBookLibrary {
 		for (int i = 0;i < 14;i++) {
 			System.out.println(librarys.toArray()[i]);
 		}
+
+		System.out.println(" --- SORTING ----");
+		//Collections.sort(sortOnLatLonglibrarys, new LibraryLatComparator());
+		Collections.sort(sortOnLatLonglibrarys, new LibraryLatComparator());
+		for (int i = 0;i < 14;i++) {
+			System.out.println(sortOnLatLonglibrarys.toArray()[i]);
+		}
+		System.out.println(" --- SORTING ----");
+		Collections.sort(sortOnLatLonglibrarys, new LibraryLongComparator());
+		for (int i = 0;i < 14;i++) {
+			System.out.println(sortOnLatLonglibrarys.toArray()[i]);
+		}
+
+
 		// TODO code application logic here
 	}
 	
