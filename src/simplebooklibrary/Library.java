@@ -41,6 +41,13 @@ public class Library implements Comparable<Object>{
 	public String getPostalcode() {
 		return postalcode;
 	}
+	public int getPostalcodeAsInt() {
+		try {
+		return Integer.parseInt(postalcode);
+		} catch (Exception e) {
+			return 1000;
+		}
+	}
 
 	public String getShortName() {
 		return shortName;
@@ -75,6 +82,7 @@ public class Library implements Comparable<Object>{
 	public String toString() {
 		String msg = "";
 		msg += city + "; ";
+		msg += postalcode + "; ";
 		msg += shortName + "; ";
 		msg += longName + "; ";
 		msg += latitude + "; ";

@@ -13,8 +13,8 @@ D-24340,Eckernförde,Fællesbiblioteket Egernførde,Dansk Centralbibliotek for S
 D-24939,Flensburg,Bogbusserne,Dansk Centralbibliotek for Sydslesvig e.V.,Norderstr. 59,54.79212,Folkebibliotek,700405,9.43103,Bogbusserne
 1172,København K,København,Københavns Biblioteker,Krystalgade 15,55.680887,Folkebibliotek,710100,12.573619,"Hovedbiblioteket, Krystalgade"
 2200,København N,Blågården,Københavns Biblioteker,Blågårds Plads 5,55.6860904,Folkebibliotek,710104,12.5567168,Blågårdens Bibliotek
-2700,Brønshøj,Brønshøj,Københavns Biblioteker,"Krabbesholmvej 3
-",55.7042921,Folkebibliotek,710105,12.4993836,Brønshøj Bibliotek
+2700,Brønshøj,Brønshøj,Københavns Biblioteker,"Krabbesholmvej 3,,,,,
+",55.7042921,Folkebibliotek,710105,12.4993836,Brønshøj Bibliotek,,,,
 1420,København K,Christianshavn,Københavns Biblioteker,Dronningensgade 53,55.6723406,Folkebibliotek,710106,12.5921292,Christianshavns Bibliotek
 2700,Brønshøj,Husum,Københavns Biblioteker,Frederikssundsvej 290,55.7113268,Folkebibliotek,710107,12.4747123,Husum Bibliotek
 2300,København S,Islands Brygge,Københavns Biblioteker,Njalsgade 15,55.6665428,Folkebibliotek,710108,12.5791908,Islands Brygge Bibliotek
@@ -60,8 +60,8 @@ D-24939,Flensburg,Bogbusserne,Dansk Centralbibliotek for Sydslesvig e.V.,Norders
 2880,Bagsværd,Værebro,Gladsaxe Bibliotekerne,Værebrovej 72,55.758464,Folkebibliotek,715905,12.439297,Værebro Bibliotek
 2600,Glostrup,Glostrup Bibliotek,Glostrup Bibliotek,Kildevældets Alle 5,55.66366,Folkebibliotek,716100,12.3938279,Glostrup Bibliotek
 2730,Herlev,Herlev Bibliotek,Herlev Bibliotek,Herlev Bygade 70,55.725455,Folkebibliotek,716300,12.435548,Herlev-Bibliotek. Hovedbiblioteket
-2730,Herlev,Biblioteket Kilden,Herlev Bibliotek,"Biblioteket Kilden
-Dildhaven 40",,Folkebibliotek,716301,,Hjortespring Bibliotek
+2730,Herlev,Biblioteket Kilden,Herlev Bibliotek,"Biblioteket Kilden,,,,,
+Dildhaven 40",,Folkebibliotek,716301,,Hjortespring Bibliotek,,,,
 2620,Albertslund,Albertslund Bibliotek,Albertslund Bibliotek,Bibliotekstorvet 2,55.6570156,Folkebibliotek,716500,12.3562517,Albertslund Bibliotek
 2620,Albertslund,Hedemarken,Albertslund Bibliotek,Hedemarksvej 14,55.657011,Folkebibliotek,716503,12.3399174,Bibliotek og Medborgercenter Hedemarken
 ,,,Albertslund Bibliotek,,,Folkebibliotek,716510,,Herstedvester Skole Biblioteksservicepunkt
@@ -119,21 +119,21 @@ Dildhaven 40",,Folkebibliotek,716301,,Hjortespring Bibliotek
 4600,Køge,Køge bibliotek,KøgeBibliotekerne,Kirkestræde 18,55.4578346,Folkebibliotek,725900,12.1822443,Køge Bibliotek
 4681,Herfølge,Herfølge Bibliotek,KøgeBibliotekerne,Billesborgvej 1 B,55.416913,Folkebibliotek,725902,12.142357,Herfølge Bibliotek
 4140,Borup,Borup bibliotek,KøgeBibliotekerne,Parkvej 2,55.5002162,Folkebibliotek,725903,11.9804517,Borup Bibliotek
-4632,Bjæverskov,Bjæverskov bibliotekspunkt,KøgeBibliotekerne,"Super Brugsen
-Bjæverskov Center",55.457699,Folkebibliotek,725904,12.033552,Bjæverskov Bibliotekspunkt
-4623,Ll. Skensved,Ejby bibliotekspunkt,KøgeBibliotekerne,"Ejby Medborgerhus
-Gemsevej 19",55.4878305,Folkebibliotek,725905,12.0803269,Ejby Bibliotekspunkt
-4600,Køge,Rishøj Minibibliotek,KøgeBibliotekerne,"Rishøjhallen
-Skolevej 7",,Folkebibliotek,725906,,Rishøj Minibibliotek
+4632,Bjæverskov,Bjæverskov bibliotekspunkt,KøgeBibliotekerne,"Super Brugsen,,,,,
+Bjæverskov Center",55.457699,Folkebibliotek,725904,12.033552,Bjæverskov Bibliotekspunkt,,,,
+4623,Ll. Skensved,Ejby bibliotekspunkt,KøgeBibliotekerne,"Ejby Medborgerhus,,,,,
+Gemsevej 19",55.4878305,Folkebibliotek,725905,12.0803269,Ejby Bibliotekspunkt,,,,
+4600,Køge,Rishøj Minibibliotek,KøgeBibliotekerne,"Rishøjhallen,,,,,
+Skolevej 7",,Folkebibliotek,725906,,Rishøj Minibibliotek,,,,
 ,,,KøgeBibliotekerne,,,Folkebibliotek,725910,,Køge Arrestbibliotek
 3300,Frederiksværk,Frederiksværk Bibliotek,Halsnæs Kommune. Bibliotekerne,Torvet 41,55.971932,Folkebibliotek,726000,12.019282,Frederiksværk Hovedbibliotek
 3390,Hundested,Hundested Bibliotek,Halsnæs Kommune. Bibliotekerne,Nørregade 61,55.959432,Folkebibliotek,726001,11.852819,Hundested Lokalbibliotek
 4000,Roskilde,Roskilde Bibliotekerne,Roskilde Bibliotekerne,Dronning Margrethes Vej 14 Postbox 229,55.64191,Folkebibliotek,726500,12.087845,Roskilde Bibliotek
-4000,Roskilde,Roskilde Bogbus,Roskilde Bibliotekerne,"Dronning Margrethes Vej 14
-Postbox 229",55.64191,Folkebibliotek,726501,12.087845,Bogbussen
+4000,Roskilde,Roskilde Bogbus,Roskilde Bibliotekerne,"Dronning Margrethes Vej 14,,,,,
+Postbox 229",55.64191,Folkebibliotek,726501,12.087845,Bogbussen,,,,
 4040,Jyllinge,Jyllinge Bibliotek,Roskilde Bibliotekerne,Bygaden 19 Box 63,55.748496,Folkebibliotek,726502,12.110293,Jyllinge Bibliotek
-4000,Roskilde,Gundsømagle,Roskilde Bibliotekerne,"Rosentorvet 8
-Gundsømagle",55.7371036,Folkebibliotek,726503,12.1489658,Gundsømagle Bibliotek
+4000,Roskilde,Gundsømagle,Roskilde Bibliotekerne,"Rosentorvet 8,,,,,
+Gundsømagle",55.7371036,Folkebibliotek,726503,12.1489658,Gundsømagle Bibliotek,,,,
 4000,Roskilde,Ågerup Bibliotek,Roskilde Bibliotekerne,Gundsølillevej 2 Ågerup,55.693047,Folkebibliotek,726504,12.1608129,Ågerup Bibliotek
 4130,Viby Sj.,Viby Sj. Bibliotek,Roskilde Bibliotekerne,Tofthøjvej 11,55.547563,Folkebibliotek,726505,12.02673,Viby Bibliotek
 4621,Gadstrup,Gadstrup,Roskilde Bibliotekerne,Nyvej 40,55.573022,Folkebibliotek,726506,12.09189,Gadstrup Bibliotek
@@ -141,8 +141,8 @@ Gundsømagle",55.7371036,Folkebibliotek,726503,12.1489658,Gundsømagle Bibliotek
 4622,Havdrup,Havdrup,Solrød Bibliotek,Møllemarken 6,55.543879,Folkebibliotek,726901,12.115475,Havdrup afhentningssted. Møllemarken 6
 3200,Helsinge,Gribskov Biblioteker,Gribskov kommunes biblioteker,Skolegade 43,56.026634,Folkebibliotek,727000,12.192295,Helsinge Bibliotek
 3220,Tisvildeleje,Tisvilde åbent bibliotek,Gribskov kommunes biblioteker,Tisvilde Bygade 37,56.056382,Folkebibliotek,727002,12.0914,Skt. Helene Skole Tisvilde. Åbent bibliotek
-3210,Vejby,Vejby Servicepunkt,Gribskov kommunes biblioteker,"Sankt Helene Skole,
-Femgårdsvej 6",56.0649045,Folkebibliotek,727003,12.1348267,Gribskov Kommunes servicepunkt på Sankt Helene Skole Vejby
+3210,Vejby,Vejby Servicepunkt,Gribskov kommunes biblioteker,"Sankt Helene Skole,,,,,
+Femgårdsvej 6",56.0649045,Folkebibliotek,727003,12.1348267,Gribskov Kommunes servicepunkt på Sankt Helene Skole Vejby,,,,
 3250,Gilleleje,Gilleleje Bibliotek,Gribskov kommunes biblioteker,Peter Fjelstrups Vej 12,56.125847,Folkebibliotek,727004,12.296319,Gilleleje Bibliotek
 3230,Græsted,Græsted Bibliotek,Gribskov kommunes biblioteker,Græsted Stationsvej 10 A,56.0669862,Folkebibliotek,727005,12.2819663,BLIK- Græsted Bibliotek
 4500,Nykøbing Sjælland,Odsherred Bibliotek,Odsherred Bibliotek og Kulturhuse,Vesterbro Torv,55.9225568,Folkebibliotek,730600,11.6654828,Nykøbing Sj. Bibliotek
@@ -157,14 +157,14 @@ Femgårdsvej 6",56.0649045,Folkebibliotek,727003,12.1348267,Gribskov Kommunes se
 4520,Svinninge,Svinninge Bibliotek,Holbæk Bibliotek,Hovedgaden 59,55.7219028,Folkebibliotek,731602,11.4615303,Svinninge Bibliotek
 4340,Tølløse,Tølløse Bibliotek,Holbæk Bibliotek,Hjortholmvej 9,55.616226,Folkebibliotek,731603,11.761498,Tølløse Bibliotek
 4300,Holbæk,Orø Bibliotek,Holbæk Bibliotek,Bygaden 50,55.766702,Folkebibliotek,731605,11.807179,Orø Bibliotek
-4340,Tølløse,Undløse Afhentningssted,Holbæk Bibliotek,"Datastuen
-Østergårdsvej 49, Undløse",55.603692,Folkebibliotek,731621,11.587638,Undløse
+4340,Tølløse,Undløse Afhentningssted,Holbæk Bibliotek,"Datastuen,,,,,
+Østergårdsvej 49, Undløse",55.603692,Folkebibliotek,731621,11.587638,Undløse,,,
 4690,Haslev,Haslev Bibliotek,Faxe Kommunes Biblioteker & Borgerservice,Jernbanegade 62,55.324601,Folkebibliotek,732000,11.96355,Haslev Bibliotek & Borgerservice
 4640,Faxe,Faxe Bibliotek,Faxe Kommunes Biblioteker & Borgerservice,Rådhusvej 4,55.251191,Folkebibliotek,732001,12.120191,Faxe Bibliotek & Borgerservice
-4653,Karise,Karise MikroBibliotek,Faxe Kommunes Biblioteker & Borgerservice,"SuperBrugsen, 
-Syrenvænget 20",55.303779,Folkebibliotek,732010,12.1992939,Karise MikroBibliotek
-4683,Rønnede,Rønnede MikroBibliotek,Faxe Kommunes Biblioteker & Borgerservice,"SuperBest
-Vordingborgvej 517",55.259224,Folkebibliotek,732011,12.021819,Rønnede MikroBibliotek
+4653,Karise,Karise MikroBibliotek,Faxe Kommunes Biblioteker & Borgerservice,"SuperBrugsen, ,,,,
+Syrenvænget 20",55.303779,Folkebibliotek,732010,12.1992939,Karise MikroBibliotek,,,,
+4683,Rønnede,Rønnede MikroBibliotek,Faxe Kommunes Biblioteker & Borgerservice,"SuperBest,,,,,
+Vordingborgvej 517",55.259224,Folkebibliotek,732011,12.021819,Rønnede MikroBibliotek,,,,
 4400,Kalundborg,Kalundborg Bibliotek,Kalundborg Biblioteker,Klostertorvet 2,55.6815781,Folkebibliotek,732600,11.0860766,Kalundborg Bibliotek
 4281,Gørlev,Gørlev Bibliotek,Kalundborg Biblioteker,Algade 35,55.539452,Folkebibliotek,732601,11.225361,Gørlev Bibliotek
 4270,Høng,Høng Bibliotek,Kalundborg Biblioteker,Odinsvej 27,55.5087632,Folkebibliotek,732602,11.2958073,Høng Bibliotek
@@ -251,8 +251,8 @@ Vordingborgvej 517",55.259224,Folkebibliotek,732011,12.021819,Rønnede MikroBibl
 5550,Langeskov,Langeskov Bibliotek,Kerteminde Bibliotekerne,Jernbanegade 14,55.3600957,Folkebibliotek,744002,10.5916411,Langeskov Bibliotek
 5800,Nyborg,Nyborg Bibliotek,Nyborg Bibliotek,Torvet,55.3128806,Folkebibliotek,745000,10.7892488,Nyborg Bibliotek
 5540,Ullerslev,Ullerslev  Bibliotek,Nyborg Bibliotek,Skolevej 2,55.359899,Folkebibliotek,745001,10.6709859,Ullerslev Bibliotek
-5853,Ørbæk,Ørbæk Bibliotek,Nyborg Bibliotek,"Ørbæk Midtpunkt,
-Langemosevej 5",55.253823,Folkebibliotek,745002,10.674902,Ørbæk Bibliotek
+5853,Ørbæk,Ørbæk Bibliotek,Nyborg Bibliotek,"Ørbæk Midtpunkt,,,,,
+Langemosevej 5",55.253823,Folkebibliotek,745002,10.674902,Ørbæk Bibliotek,,,,
 5000,Odense C,Hovedbiblioteket,Odense Bibliotekerne,Østre Stationsvej 15,55.40116,Folkebibliotek,746100,10.388635,Odense Bibliotekerne
 5200,Odense V.,Bolbro Bibliotek,Odense Bibliotekerne,Middelfartvej 81,55.394197,Folkebibliotek,746102,10.35157,Bolbro Bibliotek
 5250,Odense SV,Dalum Bibliotek,Odense Bibliotekerne,Dalumvej 95,55.365681,Folkebibliotek,746103,10.373476,Dalum Bibliotek
@@ -292,12 +292,12 @@ Langemosevej 5",55.253823,Folkebibliotek,745002,10.674902,Ørbæk Bibliotek
 6300,Gråsten,Gråsten,Biblioteket Sønderborg,Ahlefeldvej 4,54.919526,Folkebibliotek,754004,9.5905919,Biblioteket Gråsten
 6430,Nordborg,Guderup,Biblioteket Sønderborg,Skolegade 21,54.991824,Folkebibliotek,754005,9.863988,Guderup
 6430,Nordborg,Nordborg,Biblioteket Sønderborg,Løjtertoft 7,55.056813,Folkebibliotek,754006,9.7491,Biblioteket Nordborg
-6400,Sønderborg,Vester Sottrup,Biblioteket Sønderborg,"Skolevej 8,
-Vester Sottrup",54.949691,Folkebibliotek,754007,9.699548,Biblioteket Sottrup
+6400,Sønderborg,Vester Sottrup,Biblioteket Sønderborg,"Skolevej 8,,,,,
+Vester Sottrup",54.949691,Folkebibliotek,754007,9.699548,Biblioteket Sottrup,,,,
 6470,Sydals,Hørup,Biblioteket Sønderborg,Knøs Gård 1,54.9141624,Folkebibliotek,754008,9.8939423,Biblioteket Hørup
 6400,Sønderborg,Ulkebøl,Biblioteket Sønderborg,"Torvet 14, Ulkebøl",54.9244842,Folkebibliotek,754009,9.8218802,Biblioteket Ulkebøl
-6440,Augustenborg,Fynshav,Biblioteket Sønderborg,"Gyden 96
-Fynshav",54.981904,Folkebibliotek,754010,9.973299,Fynshav
+6440,Augustenborg,Fynshav,Biblioteket Sønderborg,"Gyden 96,,,,,
+Fynshav",54.981904,Folkebibliotek,754010,9.973299,Fynshav,,,,
 6270,Tønder,Tønder Bibliotek,Tønder Kommunes Biblioteker,Richtsensgade 10,54.937416,Folkebibliotek,755000,8.86881,Tønder Bibliotek
 6261,Bredebro,Bredebro Afhentningssted,Tønder Kommunes Biblioteker,Langagervej 64,,Folkebibliotek,755001,,Bredebro Afhentningssted
 6280,Højer,Højer Afhentningssted,Tønder Kommunes Biblioteker,Kirkegårdsgade 3,,Folkebibliotek,755002,,Højer Afhentningssted
@@ -308,8 +308,8 @@ Fynshav",54.981904,Folkebibliotek,754010,9.973299,Fynshav
 6710,Esbjerg V.,Sædding,Esbjerg Kommunes Biblioteker,"Sædding Centret, Tarphagevej",55.498485,Folkebibliotek,756101,8.4077023,Sædding Bibliotek
 6705,Esbjerg Ø,Kvaglund,Esbjerg Kommunes Biblioteker,"Kvaglund Centret, Kvaglundparken 12",55.4944916,Folkebibliotek,756102,8.4865076,Kvaglund Bibliotek
 6731,Tjæreborg,Tjæreborg,Esbjerg Kommunes Biblioteker,Skolevej 44,55.4633716,Folkebibliotek,756103,8.5839621,Tjæreborg Bibliotek
-6720,Fanø,"Nordby, Fanø",Esbjerg Kommunes Biblioteker,"Nordby Skole,
-Stadionvej 17",55.4458849,Folkebibliotek,756116,8.395245,Nordby Bibliotek
+6720,Fanø,"Nordby, Fanø",Esbjerg Kommunes Biblioteker,"Nordby Skole,,,,,
+Stadionvej 17",55.4458849,Folkebibliotek,756116,8.395245,Nordby Bibliotek,,,,
 6720,Fanø,Sønderho Bibliotek,Esbjerg Kommunes Biblioteker,Landevejen 35-41,55.3498956,Folkebibliotek,756117,8.4685652,Sønderho Bibliotek
 6701,Esbjerg,Bogbussen,Esbjerg Kommunes Biblioteker,Nørregade 19,55.469201,Folkebibliotek,756120,8.454726,Bogbus
 6760,Ribe,Ribe Bibliotek,Esbjerg Kommunes Biblioteker,Simon Hansens Vej 1,55.331276,Folkebibliotek,756121,8.773581,Ribe Bibliotek
@@ -321,39 +321,39 @@ Stadionvej 17",55.4458849,Folkebibliotek,756116,8.395245,Nordby Bibliotek
 6753,Agerbæk,Agerbæk,Varde Bibliotek,Kærvej 2,55.599423,Folkebibliotek,757305,8.80186,Agerbæk Bibliotek
 6870,Ølgod,Ølgod  Bibliotek,Varde Bibliotek,Vestergade 5,55.8081156,Folkebibliotek,757306,8.6170693,Ølgod Bibliotek
 6600,Vejen,Vejen Bibliotek,Vejen Kommunes Biblioteker,Rådhuspassagen 8,55.4770455,Folkebibliotek,757500,9.1373525,Vejen Bibliotek
-6650,Brørup,Brørup Bibliotek,Vejen Kommunes Biblioteker,"Stadionvej 6
-Postbox 105",55.4828152,Folkebibliotek,757510,9.0184843,Brørup Bibliotek
+6650,Brørup,Brørup Bibliotek,Vejen Kommunes Biblioteker,"Stadionvej 6,,,,,
+Postbox 105",55.4828152,Folkebibliotek,757510,9.0184843,Brørup Bibliotek,,,,
 6670,Holsted,Holsted,Vejen Kommunes Biblioteker,Højmarksvej 18,55.499229,Folkebibliotek,757520,8.913868,Holsted Bibliotek
 6630,Rødding,Rødding Bibliotek,Vejen Kommunes Biblioteker,Søndergyden 15,55.365629,Folkebibliotek,757530,9.053921,Rødding Bibliotek
-6600,Vejen,Vejen Bogbus,Vejen Kommunes Biblioteker,"Rådhuspassagen 8
-Postbox 223",55.479224,Folkebibliotek,757533,9.137997,Vejen Bogbus
+6600,Vejen,Vejen Bogbus,Vejen Kommunes Biblioteker,"Rådhuspassagen 8,,,,,
+Postbox 223",55.479224,Folkebibliotek,757533,9.137997,Vejen Bogbus,,,,
 6200,Aabenraa,Aabenraa Bibliotek,Aabenraa Bibliotekerne,Haderslevvej 3,55.049899,Folkebibliotek,758000,9.420663,Aabenraa Bibliotek
 6330,Padborg,Bov Bibliotek,Aabenraa Bibliotekerne,Bovvej 4,54.82788,Folkebibliotek,758001,9.3643059,Bov Bibliotek
 6230,Rødekro,Rødekro Bibliotek,Aabenraa Bibliotekerne,Vestergade 20,55.072696,Folkebibliotek,758002,9.330898,Rødekro Bibliotek
 6360,Tinglev,Tinglev Bibliotek,Aabenraa Bibliotekerne,Tinglev Midt,54.9357554,Folkebibliotek,758003,9.2510123,Tinglev Bibliotek
-6200,Aabenraa,Felsted Bibliotek,Aabenraa Bibliotekerne,"Gråstenvej 12
-Felsted",54.979424,Folkebibliotek,758004,9.4973986,Felsted Bibliotek
+6200,Aabenraa,Felsted Bibliotek,Aabenraa Bibliotekerne,"Gråstenvej 12,,,,,
+Felsted",54.979424,Folkebibliotek,758004,9.4973986,Felsted Bibliotek,,,,
 ,,,Aabenraa Bibliotekerne,,,Folkebibliotek,758006,,Arena Aabenraa
 7000,Fredericia,Fredericia Bibliotek,Fredericia Bibliotek,Prinsessegade 27,55.5668406,Folkebibliotek,760700,9.7578662,Fredericia Bibliotek
 ,,,Fredericia Bibliotek,,,Folkebibliotek,760702,,Medborgerhuset Korskær
 7000,Fredericia,Taulov Bibliotek,Fredericia Bibliotek,"Højdedraget 2, Taulov",55.5389708,Folkebibliotek,760706,9.6095795,Taulov Bibliotek
 7000,Fredericia,Erritsø afhentningssted,Fredericia Bibliotek,Krogsagervej 42,55.5410924,Folkebibliotek,760710,9.7106136,Erritsø-hallen afhentningssted
 7000,Fredericia,Bredstrup-Pjedsted,Fredericia Bibliotek,Ågade 70 ,,Folkebibliotek,760711,,Bredstrup-Pjedsted
-8700,Horsens,Horsens Bibliotek,Horsens Bibliotek,"Tobaksgården 12
-Postbox 521",55.8581302,Folkebibliotek,761500,9.8475881,Horsens Bibliotek
+8700,Horsens,Horsens Bibliotek,Horsens Bibliotek,"Tobaksgården 12,,,,,
+Postbox 521",55.8581302,Folkebibliotek,761500,9.8475881,Horsens Bibliotek,,,,
 8740,Brædstrup,Brædstrup Bibliotek,Horsens Bibliotek,Niels Wonges Vej 5,55.9738175,Folkebibliotek,761501,9.6097617,Brædstrup Bibliotek
 8700,Horsens,Endelave,Horsens Bibliotek,"Kongevejen 30, Endelave",55.758652,Folkebibliotek,761502,10.276579,Endelave Bibliotek
 8732,Hovedgård,Hovedgård Bibliotek,Horsens Bibliotek,Stationsvej 4,55.945973,Folkebibliotek,761503,9.9620979,Hovedgård Bibliotek
 8751,Gedved,Gedved Bibliotek,Horsens Bibliotek,Kirkevej 16,55.931337,Folkebibliotek,761504,9.851996,Gedved Bibliotek
 8752,Østbirk,Østbirk Bibliotek,Horsens Bibliotek,Peder Skrams Plads,55.9677728,Folkebibliotek,761505,9.7499507,Østbirk Bibliotek
 8700,Horsens,Søvind Bibliotek,Horsens Bibliotek,"Ravnebjerget 12, Søvind",55.8965641,Folkebibliotek,761506,10.0015836,Søvind Bibliotek
-6000,Kolding,Kolding Bibliotek,Koldingbibliotekerne,"Slotsmøllen
-Slotssøvejen 4",55.491453,Folkebibliotek,762100,9.480069,Kolding Bibliotek
+6000,Kolding,Kolding Bibliotek,Koldingbibliotekerne,"Slotsmøllen,,,,,
+Slotssøvejen 4",55.491453,Folkebibliotek,762100,9.480069,Kolding Bibliotek,,,,
 6640,Lunderskov,Lunderskov Bibliotek,Koldingbibliotekerne,Kobbelvænget 2,55.480407,Folkebibliotek,762102,9.292804,Lunderskov Bibliotek
 6070,Christiansfeld,Christiansfeld Bibliotek,Koldingbibliotekerne,Gl. Kongevej 3,55.3547123,Folkebibliotek,762103,9.4859345,Christiansfeld Bibliotek
 6580,Vamdrup,Vamdrup Bibliotek,Koldingbibliotekerne,Jernbanegade 1,55.426471,Folkebibliotek,762104,9.283146,Vamdrup Bibliotek
-6040,Egtved,V. Nebel  Biblioteksstation,Koldingbibliotekerne,"Dagli'Brugsen
-Koldingvej 2",55.5676728,Folkebibliotek,762105,9.4011434,Vester Nebel Biblioteksautomat
+6040,Egtved,V. Nebel  Biblioteksstation,Koldingbibliotekerne,"Dagli'Brugsen,,,,,
+Koldingvej 2",55.5676728,Folkebibliotek,762105,9.4011434,Vester Nebel Biblioteksautomat,,,,
 6051,Alminde,Alminde Biblioteksstation,Koldingbibliotekerne,Sysselbjergvej 6,55.56477,Folkebibliotek,762106,9.489804,Alminde Biblioteksautomat
 6091,Bjert,Sdr. Bjert Biblioteksautomat,Koldingbibliotekerne,Vesterløkke 5,55.4579813,Folkebibliotek,762107,9.5575442,Sdr.Bjert Biblioteksautomat
 6064,Jordrup,Jordrup Biblioteksautomat,Koldingbibliotekerne,Hovedgaden 43,55.553925,Folkebibliotek,762108,9.312341,Jordrup Biblioteksautomat
@@ -365,8 +365,8 @@ Koldingvej 2",55.5676728,Folkebibliotek,762105,9.4011434,Vester Nebel Biblioteks
 7080,Børkop,Børkop Bibliotek,Vejle Bibliotekerne,Ågade 6,55.6437287,Folkebibliotek,763004,9.6541861,Børkop Bibliotek
 7100,Vejle,Vejle Bogbussen,Vejle Bibliotekerne,Willy Sørensens Plads 1,55.706406,Folkebibliotek,763005,9.520034,Biblioteksbussen
 7400,Herning,Biblioteket i Herning,Herning Bibliotekerne,Østergade 8,56.136,Folkebibliotek,765700,8.977069,Biblioteket i Herning
-7400,Herning,Biblioteket i Hammerum,Herning Bibliotekerne,"Højgade 2C,
-Hammerum",56.134189,Folkebibliotek,765703,9.062908,Biblioteket i Hammerum
+7400,Herning,Biblioteket i Hammerum,Herning Bibliotekerne,"Højgade 2C,,,,,
+Hammerum",56.134189,Folkebibliotek,765703,9.062908,Biblioteket i Hammerum,,,,
 7451,Sunds,Biblioteket i Sunds,Herning Bibliotekerne,Sunds Hovedgade 50-52,56.2041173,Folkebibliotek,765704,9.0165687,Biblioteket i Sunds
 7480,Vildbjerg,Biblioteket i Vildbjerg,Herning Bibliotekerne,Kirkegade 7,56.1980564,Folkebibliotek,765705,8.7662709,Biblioteket i Vildbjerg
 7490,Aulum,Biblioteket i Aulum,Herning Bibliotekerne,Markedspladsen 1,56.265547,Folkebibliotek,765707,8.797607,Biblioteket i Aulum
@@ -396,8 +396,8 @@ Hammerum",56.134189,Folkebibliotek,765703,9.062908,Biblioteket i Hammerum
 7830,Vinderup,Vinderup Bibliotek,Holstebro Bibliotek,Grønningen 1,56.4768319,Folkebibliotek,766103,8.7829889,Vinderup Bibliotek
 7620,Lemvig,Lemvig Bibliotek,Lemvig Bibliotek,Skolegade 3,56.5493317,Folkebibliotek,766500,8.3097157,Lemvig Bibliotek
 7620,Lemvig,Bogbussen,Lemvig Bibliotek,Skolegade 3,56.5493317,Folkebibliotek,766501,8.3097157,Bogbussen
-7600,Struer,Struer Bibliotek,Struer Bibliotek,"Smedegade 1
-Postbox 514",56.48493,Folkebibliotek,767100,8.589933,Struer
+7600,Struer,Struer Bibliotek,Struer Bibliotek,"Smedegade 1,,,,,
+Postbox 514",56.48493,Folkebibliotek,767100,8.589933,Struer,,,,
 7790,Thyholm,Thyholm Bibliotek,Struer Bibliotek,Rughavevej 5,56.650866,Folkebibliotek,767103,8.533999,Thyholm Bibliotek
 8400,Ebeltoft,Ebeltoft Bibliotek,Syddjurs Bibliotek,Vestervej 17,56.193381,Folkebibliotek,770600,10.669748,Ebeltoft Bibliotek
 8543,Hornslet,Hornslet Bibliotek,Syddjurs Bibliotek,Tingvej 35,56.318495,Folkebibliotek,770601,10.3153279,Hornslet Bibliotek
@@ -412,35 +412,35 @@ Postbox 514",56.48493,Folkebibliotek,767100,8.589933,Struer
 ,,,Norddjurs Biblioteker,,,Folkebibliotek,770702,,Anholt Bibliotek
 8963,Auning,Auning Bibliotek,Norddjurs Biblioteker,Torvegade 1A,,Folkebibliotek,770706,,Auning Bibliotek
 8950,Ørsted,Ørsted Bibliotek,Norddjurs Biblioteker,Rougsøvej 73B,,Folkebibliotek,770707,,Ørsted Bibliotek
-8961,Allingåbro,Allingåbro Servicepunkt,Norddjurs Biblioteker,"Dagli' Brugsen, Hovedgaden 80  
-",,Folkebibliotek,770720,,Allingåbro Servicepunkt
-8585,Glesborg,Bønnerup Servicepunkt,Norddjurs Biblioteker,"Bønnerup Kulturcafé,
-Skibsbyggervej 17",,Folkebibliotek,770721,,Bønnerup Servicepunkt
-8585,Glesborg,Fjellerup Servicepunkt,Norddjurs Biblioteker,"Complet
-Strandvejen 17",,Folkebibliotek,770722,,Fjellerup Servicepunkt
-8500,Grenaa,Gjerrild Servicepunkt,Norddjurs Biblioteker,"Focus
-Stokkebro 77",,Folkebibliotek,770723,,Gjerrild Servicepunkt
-8570,Trustrup,Trustrup Servicepunkt,Norddjurs Biblioteker,"OK Plus
-""Soltanken""
-Århusvej 192",,Folkebibliotek,770724,,Trustrup Servicepunkt
-8961,Allingåbro,Vivild Servicepunkt,Norddjurs Biblioteker,"Super Spar
-Langgade 43",,Folkebibliotek,770725,,Vivild Servicepunkt
-8961,Allingåbro,Nørager Servicepunkt,Norddjurs Biblioteker,"Min Købmand
-Munkehusevej 9
-Nørager",,Folkebibliotek,770726,,Nørager Servicepunkt
-8382,Hinnerup,Hinnerup Bibliotek og Kulturhu,Favrskov Bibliotekerne,"Skovvej 18
-Postbox 70",56.2650022,Folkebibliotek,771000,10.0633759,Hinnerup Bibliotek
+8961,Allingåbro,Allingåbro Servicepunkt,Norddjurs Biblioteker,"Dagli' Brugsen, Hovedgaden 80  ,,,,
+",,Folkebibliotek,770720,,Allingåbro Servicepunkt,,,,
+8585,Glesborg,Bønnerup Servicepunkt,Norddjurs Biblioteker,"Bønnerup Kulturcafé,,,,,
+Skibsbyggervej 17",,Folkebibliotek,770721,,Bønnerup Servicepunkt,,,,
+8585,Glesborg,Fjellerup Servicepunkt,Norddjurs Biblioteker,"Complet,,,,,
+Strandvejen 17",,Folkebibliotek,770722,,Fjellerup Servicepunkt,,,,
+8500,Grenaa,Gjerrild Servicepunkt,Norddjurs Biblioteker,"Focus,,,,,
+Stokkebro 77",,Folkebibliotek,770723,,Gjerrild Servicepunkt,,,,
+8570,Trustrup,Trustrup Servicepunkt,Norddjurs Biblioteker,"OK Plus,,,,,
+Soltanken,,,,,,,,,
+Århusvej 192",,Folkebibliotek,770724,,Trustrup Servicepunkt,,,,
+8961,Allingåbro,Vivild Servicepunkt,Norddjurs Biblioteker,"Super Spar,,,,,
+Langgade 43",,Folkebibliotek,770725,,Vivild Servicepunkt,,,,
+8961,Allingåbro,Nørager Servicepunkt,Norddjurs Biblioteker,"Min Købmand,,,,,
+Munkehusevej 9,,,,,,,,,
+Nørager",,Folkebibliotek,770726,,Nørager Servicepunkt,,,,
+8382,Hinnerup,Hinnerup Bibliotek og Kulturhu,Favrskov Bibliotekerne,"Skovvej 18,,,,,
+Postbox 70",56.2650022,Folkebibliotek,771000,10.0633759,Hinnerup Bibliotek,,,,
 8450,Hammel,Hammel,Favrskov Bibliotekerne,Dalvej 1,56.256876,Folkebibliotek,771001,9.860022,Hammel Bibliotek
 8370,Hadsten,Hadsten Bibliotek,Favrskov Bibliotekerne,Evald Tangs Allé 45,56.325725,Folkebibliotek,771002,10.044932,Hadsten Bibliotek
 8860,Ulstrup,Ulstrup Bibliotek,Favrskov Bibliotekerne,Hovedgaden 60,56.387301,Folkebibliotek,771003,9.78821,Ulstrup Bibliotek
 8300,Odder,Odder Bibliotek,Odder Bibliotek,Mejerivej 14,55.973865,Folkebibliotek,772700,10.152563,Odder Bibliotek
 ,,,Odder Bibliotek,,,Folkebibliotek,772705,,Tunø Bibliotek
-8900,Randers C,Randers Bibliotek,Randers Bibliotek,"Stemannsgade 2
-Postbox 917",56.4635786,Folkebibliotek,773000,10.0344155,Randers Bibliotek
+8900,Randers C,Randers Bibliotek,Randers Bibliotek,"Stemannsgade 2,,,,,
+Postbox 917",56.4635786,Folkebibliotek,773000,10.0344155,Randers Bibliotek,,,,
 8930,Randers NØ,Randers Bibliotek Øst,Randers Bibliotek,Udbyhøjvej 81,56.471814,Folkebibliotek,773001,10.06571,Randers Bibliotek Øst
 8960,Randers SØ,Randers Bibliotek Syd,Randers Bibliotek,Kristrupvej 68,56.446897,Folkebibliotek,773002,10.056528,Randers Bibliotek Syd
-8900,Randers C,Bogbus,Randers Bibliotek,"Stemannsgade 2
-Postbox 917",56.4635786,Folkebibliotek,773004,10.0344155,Bogbus
+8900,Randers C,Bogbus,Randers Bibliotek,"Stemannsgade 2,,,,,
+Postbox 917",56.4635786,Folkebibliotek,773004,10.0344155,Bogbus,,,,
 8870,Langå,Langå Bibliotek,Randers Bibliotek,Bredgade 4,56.39174,Folkebibliotek,773005,9.89408,Langå Bibliotek
 8600,Silkeborg,Silkeborg Bibliotekerne,Silkeborg Bibliotekerne,Hostrupsgade 41 A,56.176362,Folkebibliotek,774000,9.5549216,Silkeborg Bibliotek
 8620,Kjellerup,Kjellerup Bibliotek,Silkeborg Bibliotekerne,Tinghusvej 16,56.287432,Folkebibliotek,774001,9.42866,Kjellerup Bibliotek
@@ -470,15 +470,15 @@ Postbox 917",56.4635786,Folkebibliotek,773004,10.0344155,Bogbus
 8361,Hasselager,Bavnehøj,Aarhus Kommunes Biblioteker. Hovedbiblioteket.,Koltvej 17-19,56.1099242,Folkebibliotek,775133,10.0760538,Bavnehøj Kombi Bibliotek
 8230,Åbyhøj,Åby,Aarhus Kommunes Biblioteker. Hovedbiblioteket.,Ludvig Feilbergsvej 7,56.156438,Folkebibliotek,775140,10.162515,Åby Bibliotek
 8220,Brabrand,Gellerup,Aarhus Kommunes Biblioteker. Hovedbiblioteket.,Gudrunsvej 78,56.155667,Folkebibliotek,775144,10.135267,Gellerup Bibliotek
-8462,Harlev,Harlev,Aarhus Kommunes Biblioteker. Hovedbiblioteket.,"Gammel Stillingvej 424,
-Næshøjskolen,",56.139929,Folkebibliotek,775146,10.0032866,Harlev Kombi Bibliotek
+8462,Harlev,Harlev,Aarhus Kommunes Biblioteker. Hovedbiblioteket.,"Gammel Stillingvej 424,,,,,
+Næshøjskolen,",56.139929,Folkebibliotek,775146,10.0032866,Harlev Kombi Bibliotek,,,
 8210,Aarhus V.,Hasle,Aarhus Kommunes Biblioteker. Hovedbiblioteket.,Kappelvænget 2 B,56.1792779,Folkebibliotek,775147,10.166976,Hasle Bibliotek
-8471,Sabro,Sabro,Aarhus Kommunes Biblioteker. Hovedbiblioteket.,"Sabro Skolevej 4,
-Sabro-Korsvejskolen",56.211784,Folkebibliotek,775149,10.023611,Sabro Bibliotek
+8471,Sabro,Sabro,Aarhus Kommunes Biblioteker. Hovedbiblioteket.,"Sabro Skolevej 4,,,,,
+Sabro-Korsvejskolen",56.211784,Folkebibliotek,775149,10.023611,Sabro Bibliotek,,,,
 8381,Tilst,Tilst,Aarhus Kommunes Biblioteker. Hovedbiblioteket.,Tilst Skolevej 13a,56.188355,Folkebibliotek,775150,10.110579,Tilst Bibliotek
 8240,Risskov,Risskov,Aarhus Kommunes Biblioteker. Hovedbiblioteket.,Fortebakken 1,56.1937133,Folkebibliotek,775160,10.2234383,Risskov Bibliotek
-8530,Hjortshøj,Hjortshøj,Aarhus Kommunes Biblioteker. Hovedbiblioteket.,"Virupvej 75,
-Virupskolen",56.3092922,Folkebibliotek,775162,10.2085902,Hjortshøj Kombi Bibliotek
+8530,Hjortshøj,Hjortshøj,Aarhus Kommunes Biblioteker. Hovedbiblioteket.,"Virupvej 75,,,,,
+Virupskolen",56.3092922,Folkebibliotek,775162,10.2085902,Hjortshøj Kombi Bibliotek,,,,
 8250,Egå,Egå,Aarhus Kommunes Biblioteker. Hovedbiblioteket.,"Egå Havvej 5, Sølystskolen",56.211717,Folkebibliotek,775164,10.283211,Egå Kombi Bibliotek
 8520,Lystrup,Lystrup,Aarhus Kommunes Biblioteker. Hovedbiblioteket.,Bystævnet 4 B,56.234166,Folkebibliotek,775167,10.2283329,Lystrup Bibliotek
 8541,Skødstrup,Skødstrup,Aarhus Kommunes Biblioteker. Hovedbiblioteket.,"Rosenbakken 4, Skødstrup Skole",56.271602,Folkebibliotek,775168,10.308421,Skødstrup Kombi-bibliotek
@@ -487,8 +487,8 @@ Virupskolen",56.3092922,Folkebibliotek,775162,10.2085902,Hjortshøj Kombi Biblio
 7330,Brande,Brande Bibliotek,Ikast-Brande Bibliotek,Centerparken 2,55.940895,Folkebibliotek,775601,9.125928,Brande Bibliotek
 7441,Bording,Bording Bibliotek,Ikast-Brande Bibliotek,Solsortevej 10,,Folkebibliotek,775602,,Bording Bibliotek
 7361,Ejstrupholm,Ejstrupholm Bibliotek,Ikast-Brande Bibliotek,Grønningen 3,,Folkebibliotek,775603,,Ejstrupholm Bibliotek
-7442,Engesvang,Engesvang Bibliotek,Ikast-Brande Bibliotek,"Engesvang Skole
-Gl. Kongevej 97",,Folkebibliotek,775604,,Engesvang Bibliotek
+7442,Engesvang,Engesvang Bibliotek,Ikast-Brande Bibliotek,"Engesvang Skole,,,,,
+Gl. Kongevej 97",,Folkebibliotek,775604,,Engesvang Bibliotek,,,,
 8766,Nørre Snede,Nørre Snede Bibliotek,Ikast-Brande Bibliotek,Bellisvej 2,,Folkebibliotek,775605,,Nr. Snede Bibliotek
 6950,Ringkøbing,Ringkøbing-Skjern,Ringkøbing-Skjern Bibliotekerne,Ved Fjorden 6,56.086535,Folkebibliotek,776000,8.242397,Ringkøbing Bibliotek
 6900,Skjern,Skjern Bibliotek,Ringkøbing-Skjern Bibliotekerne,Engtoften 1,55.9479462,Folkebibliotek,776001,8.4964523,Skjern Bibliotek
@@ -496,28 +496,28 @@ Gl. Kongevej 97",,Folkebibliotek,775604,,Engesvang Bibliotek
 6920,Videbæk,Videbæk Bibliotek,Ringkøbing-Skjern Bibliotekerne,Fischersvej 6,56.090198,Folkebibliotek,776003,8.629023,Videbæk Bibliotek
 6960,Hvide Sande,Hvide Sande Bibliotek,Ringkøbing-Skjern Bibliotekerne,Skolevej 1,56.007465,Folkebibliotek,776004,8.129276,Hvide Sande Bibliotek
 8722,Hedensted,Hedensted Bibliotek,Hedensted Bibliotekerne,Østerbrogade 26,55.77085,Folkebibliotek,776600,9.7024268,Hedensted Bibliotek
-7160,Tørring,Tørring Bibliotek,Hedensted Bibliotekerne,"Gudenåcentret
-Kirkevej 10, 1",55.860647,Folkebibliotek,776601,9.482918,Tørring Bibliotek
+7160,Tørring,Tørring Bibliotek,Hedensted Bibliotekerne,"Gudenåcentret,,,,,
+Kirkevej 10, 1",55.860647,Folkebibliotek,776601,9.482918,Tørring Bibliotek,,,
 7171,Uldum,Uldum Bibliotek,Hedensted Bibliotekerne,Bakken 2,55.8453,Folkebibliotek,776602,9.588212,Uldum Bibliotek
 8783,Hornsyld,Hornsyld Bibliotek,Hedensted Bibliotekerne,Nørremarksvej 1 B,55.757478,Folkebibliotek,776603,9.8456703,Hornsyld Bibliotek
 7130,Juelsminde,Juelsminde Bibliotek,Hedensted Bibliotekerne,Wedelsgade 1,55.7133651,Folkebibliotek,776604,10.0127488,Juelsminde Bibliotek
 7900,Nykøbing Mors,Morsø Folkebibliotek,Morsø Folkebibliotek,Holgersgade 7,56.7968238,Folkebibliotek,777300,8.8611087,Morsø Folkebibliotek
 7800,Skive,Skive Bibliotek,Skive Bibliotek,Østergade 25,56.567195,Folkebibliotek,777900,9.028752,Skive Bibliotek
-7800,Skive,Bogbusserne,Skive Bibliotek,"Skive Bibliotek
-Østergade 25",56.5667255,Folkebibliotek,777901,9.0294515,Bogbus1
+7800,Skive,Bogbusserne,Skive Bibliotek,"Skive Bibliotek,,,,,
+Østergade 25",56.5667255,Folkebibliotek,777901,9.0294515,Bogbus1,,,,
 7860,Spøttrup,Balling,Skive Bibliotek,"Stadion Alle 18, Balling",,Folkebibliotek,777902,,Bogbus2
 ,,,Skive Bibliotek,,,Folkebibliotek,777903,,Mobillen
 7700,Thisted,Biblioteket i Thy,Biblioteket i Thy,Tingstrupvej 19,56.956368,Folkebibliotek,778700,8.685837,Thisted Bibliotek
 7700,Thisted,1 bogbus,Biblioteket i Thy,Tingstrupvej 13-19,56.955966,Folkebibliotek,778701,8.686613,Bogbussen
-7730,Hanstholm,Hanstholm Bibliotek,Biblioteket i Thy,"Bytorvet 2
-Box 109",57.112861,Folkebibliotek,778710,8.617668,Hanstholm Bibliotek
+7730,Hanstholm,Hanstholm Bibliotek,Biblioteket i Thy,"Bytorvet 2,,,,,
+Box 109",57.112861,Folkebibliotek,778710,8.617668,Hanstholm Bibliotek,,,,
 7760,Hurup Thy,Hurup Bibliotek,Biblioteket i Thy,Søndergade 1,56.748626,Folkebibliotek,778720,8.421566,Hurup Bibliotek
 8800,Viborg,Viborg,Viborg Bibliotekerne,Vesterbrogade 15,56.449818,Folkebibliotek,779100,9.398641,"Viborg Bibliotekerne, Hovedbiblioteket"
 8800,Viborg,Houlkær,Viborg Bibliotekerne,Odshøjvej 5C,56.46272,Folkebibliotek,779102,9.448549,Houlkær Bibliotek
 9632,Møldrup,Møldrup Bibliotek,Viborg Bibliotekerne,Skolegade 27,56.6184574,Folkebibliotek,779105,9.5005356,Møldrup Bibliotek
 8832,Skals,Skals bibliotek,Viborg Bibliotekerne,Ejstrupvej 18B,56.557891,Folkebibliotek,779109,9.406609,Skals Bibliotek
-8830,Tjele,Ørum Bibliotek,Viborg Bibliotekerne,"Gl. Tjelevej 10
-Ørum",56.48388,Folkebibliotek,779110,9.624895,Ørum Bibliotek
+8830,Tjele,Ørum Bibliotek,Viborg Bibliotekerne,"Gl. Tjelevej 10,,,,,
+Ørum",56.48388,Folkebibliotek,779110,9.624895,Ørum Bibliotek,,,,
 8850,Bjerringbro,Bjerringbro Bibliotek,Viborg Bibliotekerne,Realskolevej 12,56.376865,Folkebibliotek,779115,9.656368,Bjerringbro Bibliotek
 8840,Rødkærsbro,Rødkærsbro Bibliotek,Viborg Bibliotekerne,Brandstrupvej 23,56.35543,Folkebibliotek,779116,9.504139,Rødkærsbro Bibliotek
 7850,Stoholm,Stoholm Bibliotek,Viborg Bibliotekerne,Iglsøvej 5,56.484337,Folkebibliotek,779117,9.14227,Stoholm Bibliotek
@@ -545,10 +545,10 @@ Box 109",57.112861,Folkebibliotek,778710,8.617668,Hanstholm Bibliotek
 ,,,Brønderslev Bibliotek,,,Folkebibliotek,781061,,Det Mobile Bibliotek - Sterup
 ,,,Brønderslev Bibliotek,,,Folkebibliotek,781062,,Det Mobile Bibliotek - Thise
 ,,,Brønderslev Bibliotek,,,Folkebibliotek,781063,,Det Mobile Bibliotek - Øster Brønderslev
-9900,Frederikshavn,Frederikshavns Biblioteker,Frederikshavn Kommunes Biblioteker,"Parallelvej 16
-",57.442711,Folkebibliotek,781300,10.521006,Frederikshavn Bibliotek
-9300,Sæby,Sæby  Bibliotek,Frederikshavn Kommunes Biblioteker,"Rådhuspladsen 1
-Postbox 141",57.3308698,Folkebibliotek,781302,10.5166278,Sæby Bibliotek
+9900,Frederikshavn,Frederikshavns Biblioteker,Frederikshavn Kommunes Biblioteker,"Parallelvej 16,,,,,
+",57.442711,Folkebibliotek,781300,10.521006,Frederikshavn Bibliotek,,,,
+9300,Sæby,Sæby  Bibliotek,Frederikshavn Kommunes Biblioteker,"Rådhuspladsen 1,,,,,
+Postbox 141",57.3308698,Folkebibliotek,781302,10.5166278,Sæby Bibliotek,,,,
 9750,Østervrå,Østervrå Bibliotek,Frederikshavn Kommunes Biblioteker,Bredgade 6,57.342235,Folkebibliotek,781303,10.235304,Østervrå Bibliotek
 9982,Ålbæk,Ålbæk,Frederikshavn Kommunes Biblioteker,Engvej 8-10,57.5933625,Folkebibliotek,781304,10.4070461,Ålbæk Bibliotek
 9990,Skagen,Skagens Bibliotek,Frederikshavn Kommunes Biblioteker,Skolevej 5,57.722668,Folkebibliotek,781305,10.5877079,Skagen Bibliotek
@@ -570,12 +570,12 @@ DK - 9940,Læsø,Østerby Bibl. og Servicecenter,Læsø Bibliotek,Østerby Havne
 9520,Skørping,Skørping Bibliotek,Rebild Bibliotekerne,Sverriggårdsvej 4,56.8358368,Folkebibliotek,784001,9.887984,Skørping Bibliotek
 9575,Terndrup,Terndrup,Rebild Bibliotekerne,Terndrup Center 3,56.812488,Folkebibliotek,784002,10.058735,Terndrup Bibliotek
 9610,Nørager,Nørager Bibliotek,Rebild Bibliotekerne,Vestermarksvej 2,56.7072673,Folkebibliotek,784003,9.6279225,Nørager Bibliotek
-9530,Støvring,Bogbussen,Rebild Bibliotekerne,"Støvring Bibliotek
-Hobrovej 90",56.8891113,Folkebibliotek,784004,9.8362967,Bogbussen
-9500,Hobro,Hobro Bibliotek,Mariagerfjord Bibliotekerne,"Hobro Bibliotek (hovedbibliotek)
-St. Torv",56.6391392,Folkebibliotek,784600,9.797648,Hobro Bibliotek
-9510,Arden,Arden Bibliotek,Mariagerfjord Bibliotekerne,"Bluhmesgade 19
-Postbox 103",56.769043,Folkebibliotek,784601,9.856832,Arden Bibliotek
+9530,Støvring,Bogbussen,Rebild Bibliotekerne,"Støvring Bibliotek,,,,,
+Hobrovej 90",56.8891113,Folkebibliotek,784004,9.8362967,Bogbussen,,,,
+9500,Hobro,Hobro Bibliotek,Mariagerfjord Bibliotekerne,"Hobro Bibliotek (hovedbibliotek),,,,,
+St. Torv",56.6391392,Folkebibliotek,784600,9.797648,Hobro Bibliotek,,,,
+9510,Arden,Arden Bibliotek,Mariagerfjord Bibliotekerne,"Bluhmesgade 19,,,,,
+Postbox 103",56.769043,Folkebibliotek,784601,9.856832,Arden Bibliotek,,,,
 9560,Hadsund,Hadsund  Bibliotek,Mariagerfjord Bibliotekerne,Kirkegade 4,56.7186994,Folkebibliotek,784602,10.1178412,Hadsund Bibliotek
 9550,Mariager,Mariager Bibliotek,Mariagerfjord Bibliotekerne,Teglgade 6,56.650427,Folkebibliotek,784603,9.980795,Mariager Bibliotek
 9560,Hadsund,Als Bibliotek,Mariagerfjord Bibliotekerne,Vikingvej 4,56.7565264,Folkebibliotek,784605,10.2877988,Als Bibliotek
@@ -597,8 +597,8 @@ Postbox 103",56.769043,Folkebibliotek,784601,9.856832,Arden Bibliotek
 9370,Hals,Hals Bibliotek,Aalborg Bibliotekerne,Østergade 2A,56.9950239,Folkebibliotek,785117,10.3095658,Hals Bibliotek
 9240,Nibe,Nibe Bibliotek,Aalborg Bibliotekerne,St. Algade 4,56.982095,Folkebibliotek,785123,9.636342,Nibe Bibliotek
 9000,Aalborg,HistorieAalborg,Aalborg Bibliotekerne,Arkivstræde 1,,Folkebibliotek,785131,,HistorieAalborg
-9100,Aalborg,Bogbussen Aalborg,Aalborg Bibliotekerne,"Rendsburggade 2,
-Postboks 839",,Folkebibliotek,785140,,Bogbus 1
+9100,Aalborg,Bogbussen Aalborg,Aalborg Bibliotekerne,"Rendsburggade 2,,,,,
+Postboks 839",,Folkebibliotek,785140,,Bogbus 1,,,,
 ,,,Aalborg Bibliotekerne,,,Folkebibliotek,785141,,Bogbus 2
 ,,,Aalborg Bibliotekerne,,,Folkebibliotek,785142,,Bogbus 3
 9280,Storvorde,Storvorde,Aalborg Bibliotekerne,Stationsvej 5,57.001631,Folkebibliotek,785143,10.101506,Storvorde Bibliotek
@@ -607,22 +607,22 @@ Postboks 839",,Folkebibliotek,785140,,Bogbus 1
 9760,Vrå,Vrå Bibliotek,Hjørring Bibliotekerne,Sønder Vråvej 1,57.353108,Folkebibliotek,786002,9.946824,Vrå Bibliotek
 9480,Løkken,Løkken Bibliotek,Hjørring Bibliotekerne,Harald Fischers Vej 30,57.372502,Folkebibliotek,786003,9.714157,Løkken Bibliotek
 9870,Sindal,Sindal Bibliotek,Hjørring Bibliotekerne,Torvegade 15,57.472046,Folkebibliotek,786004,10.200346,Sindal Bibliotek
-9830,Tårs,Tårs - Fakta,Hjørring Bibliotekerne,"Fakta
-Guldregnvej 3",57.387019,Folkebibliotek,786006,10.11397,Tårs
-9881,Bindslev,Bindslev Dagli'Brugsen,Hjørring Bibliotekerne,"Dagli'Brugsen
-Vesterbro 9",57.5420495,Folkebibliotek,786007,10.1964522,Bindslev
-9800,Hjørring,Bjergby - Skole,Hjørring Bibliotekerne,"Bjergby-Mygdal Skole
-Asdalvej 14
-Bjergby",57.5134,Folkebibliotek,786008,10.025916,Bjergby
-9881,Bindslev,Tversted - Super Spar,Hjørring Bibliotekerne,"Super Spar
-Tannisbugtvej 38
-Tversted",57.58692,Folkebibliotek,786010,10.188126,Tversted
-9870,Sindal,Mosbjerg - Mosbjerghus,Hjørring Bibliotekerne,"Botilbuddet Mosbjerghus
-Jerupvej 485
-Mosbjerg",57.503576,Folkebibliotek,786011,10.278933,Mosbjerg
-9800,Hjørring,Lønstrup - Super Spar,Hjørring Bibliotekerne,"Super Spar,
-Strandvejen 82
-Lønstrup",57.471932,Folkebibliotek,786012,9.797296,Lønstrup
+9830,Tårs,Tårs - Fakta,Hjørring Bibliotekerne,"Fakta,,,,,
+Guldregnvej 3",57.387019,Folkebibliotek,786006,10.11397,Tårs,,,,
+9881,Bindslev,Bindslev Dagli'Brugsen,Hjørring Bibliotekerne,"Dagli'Brugsen,,,,,
+Vesterbro 9",57.5420495,Folkebibliotek,786007,10.1964522,Bindslev,,,,
+9800,Hjørring,Bjergby - Skole,Hjørring Bibliotekerne,"Bjergby-Mygdal Skole,,,,,
+Asdalvej 14,,,,,,,,,
+Bjergby",57.5134,Folkebibliotek,786008,10.025916,Bjergby,,,,
+9881,Bindslev,Tversted - Super Spar,Hjørring Bibliotekerne,"Super Spar,,,,,
+Tannisbugtvej 38,,,,,,,,,
+Tversted",57.58692,Folkebibliotek,786010,10.188126,Tversted,,,,
+9870,Sindal,Mosbjerg - Mosbjerghus,Hjørring Bibliotekerne,"Botilbuddet Mosbjerghus,,,,,
+Jerupvej 485,,,,,,,,,
+Mosbjerg",57.503576,Folkebibliotek,786011,10.278933,Mosbjerg,,,,
+9800,Hjørring,Lønstrup - Super Spar,Hjørring Bibliotekerne,"Super Spar,,,,,
+Strandvejen 82,,,,,,,,,
+Lønstrup",57.471932,Folkebibliotek,786012,9.797296,Lønstrup,,,,
 ,,,Hjørring Bibliotekerne,,,Folkebibliotek,786017,,Lørslev
 1234,Testby-test,DBC Test Bibliotek - 4.2,DBC-Test-vsn,B. Adresse,,Other,790900,,DBCTestBibliotek
 1221,København K,"Kgl. Bibl./KUB - Kbh., DIA",Det Kgl. Bibliotek - København,Søren Kierkegaards Plads 1,55.6732158,Forskningsbibliotek,810010,12.5821264,Det Kgl. Bibliotek København. Diamanten
@@ -632,8 +632,8 @@ Lønstrup",57.471932,Folkebibliotek,786012,9.797296,Lønstrup
 1219,København K,Dansk Folkemindesamlings Bibli,Det Kgl. Bibliotek - København,Christians Brygge 3,,Forskningsbibliotek,810014,,Dansk Folkemindesamlings Bibliotek
 1221,København K,Kgl. Bibl./Kbh. - Nat. samling,Det Kgl. Bibliotek - København,Søren Kierkegaards Plads 1,,Forskningsbibliotek,810015,,Det Kgl. Bibliotek København. Nationale samlinger
 8000,Aarhus C,Det Kgl. Bibl. - Aarhus,Det Kgl. Bibliotek - Aarhus,Victor Albecks Vej 1,56.1701747,Forskningsbibliotek,820010,10.199239,Det Kgl. Bibliotek - Aarhus
-1219,København K,BiblioteksCenter f Integration,Det Kgl. Bibliotek - Aarhus,"Det Kgl. Bibliotek
-Christians Brygge 8",,Forskningsbibliotek,820012,,BiblioteksCenter for Integration
+1219,København K,BiblioteksCenter f Integration,Det Kgl. Bibliotek - Aarhus,"Det Kgl. Bibliotek,,,,,
+Christians Brygge 8",,Forskningsbibliotek,820012,,BiblioteksCenter for Integration,,,,
 8000,Aarhus,AU Library Sundhedsvidenskab,Det Kgl. Bibliotek - Aarhus,Vennelyst Boulevard 4,56.166644,Forskningsbibliotek,820014,10.206756,AU Library Sundhedsvidenskab
 ,,,Det Kgl. Bibliotek - Aarhus,,,Forskningsbibliotek,820015,,Skejby Magasin
 ,,,Det Kgl. Bibliotek - Aarhus,,,Forskningsbibliotek,820016,,Brabrand Magasin
@@ -649,10 +649,10 @@ Christians Brygge 8",,Forskningsbibliotek,820012,,BiblioteksCenter for Integrati
 6700,Esbjerg,AUB Esbjerg,Aalborg Universitetsbibliotek,Niels Bohrs Vej 8,,Forskningsbibliotek,820051,,Aalborg Universitetsbibliotek Esbjerg
 2450,København SV,AUB København,Aalborg Universitetsbibliotek,A. C. Meyersvænge 15,,Forskningsbibliotek,820052,,Aalborg Universitetsbibliotek København
 2970,Hørsholm,SBI Biblioteket,Aalborg Universitetsbibliotek,Dr. Neergaardsvej 15,,Forskningsbibliotek,820053,,"Statens Byggeforskningsinstitut, Biblioteket"
-2800,Kgs. Lyngby,DTU Bibliotek Lyngby,DTU Bibliotek. Danmarks Tekniske Informationscenter,"Anker Engelunds Vej 1
-Bygning 101D",55.786908,Forskningsbibliotek,820060,12.523264,"Danmarks Tekniske Informationscenter, Lyngby"
-2400,København NV,"AUL, Emdrup (DPB)","AU Library, Campus Emdrup (DPB)","Postboks 840
-Tuborgvej 164",55.72171,Forskningsbibliotek,820070,12.543195,"AU  Library, Campus Emdrup (DPB)"
+2800,Kgs. Lyngby,DTU Bibliotek Lyngby,DTU Bibliotek. Danmarks Tekniske Informationscenter,"Anker Engelunds Vej 1,,,,,
+"Bygning 101D,55.786908,Forskningsbibliotek,820060,12.523264,Danmarks Tekniske Informationscenter", Lyngby",,,,,,,,
+2400,København NV,"AUL, Emdrup (DPB)","AU Library, Campus Emdrup (DPB)","Postboks 840,,,,,
+"Tuborgvej 164,55.72171,Forskningsbibliotek,820070,12.543195,AU  Library", Campus Emdrup (DPB)",,,,,,,,
 8000,Århus C,AAA biblioteket,Biblioteket Arkitektskolen Aarhus,Nørreport 20,56.1612494,Forskningsbibliotek,820080,10.2124633,Biblioteket Arkitektskolen Aarhus
 2200,København N,"Institut for Idræt, Bibliotek",Institut for Idræt og Ernæring. Biblioteket,Nørre Allé 51,,Forskningsbibliotek,820100,,Institut for Idræt og Ernæring. Biblioteket
 1870,Frederiksberg C,KUB Frederiksberg,Det Kgl. Bibliotek - København,Dyrlægevej 10,55.679072,Forskningsbibliotek,820110,12.54134,Københavns Universitetsbibliotek Frederiksberg (KUB Frederiksberg)
@@ -662,12 +662,12 @@ Tuborgvej 164",55.72171,Forskningsbibliotek,820070,12.543195,"AU  Library, Campu
 ,,,CBS Bibliotek,,,Forskningsbibliotek,820123,,CBS Bibliotek - Graduate House. Læsesal
 8210,Århus V,AU Library Fuglesangsalle,"AU Library, Fuglesangs Allé",Fuglesangs Allé 4,56.1622333,Forskningsbibliotek,820140,10.1824915,"AU Library, Fuglesangs Alle"
 1007,København K,DKB,Det Kgl. Bibliotek - København,Nyhavn 2,55.6760968,Forskningsbibliotek,820150,12.5683371,"Danmarks Kunstbibliotek, Nyhavn Afdeling"
-8000,Århus,"Center for Rusmiddelforskning,","Center for Rusmiddelforskning, Biblioteket","Bartholins Allé 10
-Bygning 1322",,Forskningsbibliotek,820180,,"Center for Rusmiddelforskning, Biblioteket"
-2300,København S,"ITU, Biblioteket","IT-Universitetet i København, Biblioteket 2E04","Rued Langgaards Vej 7
-",,Forskningsbibliotek,820190,,"IT-Universitetet i København, Biblioteket 2D08"
-2300,København S,IVA Biblioteket,Det Kgl. Bibliotek - København,"Njalsgade 76 
-Søndre Campus, bygning 5A",55.656189,Forskningsbibliotek,830010,12.598737,Det Informationsvidenskabelige Akademi
+8000,Århus,"Center for Rusmiddelforskning,","Center for Rusmiddelforskning, Biblioteket","Bartholins Allé 10,,,,,
+"Bygning 1322,,Forskningsbibliotek,820180,,Center for Rusmiddelforskning", Biblioteket",,,,,,,,
+2300,København S,"ITU, Biblioteket","IT-Universitetet i København, Biblioteket 2E04","Rued Langgaards Vej 7,,,,,
+",,Forskningsbibliotek,820190,,IT-Universitetet i København", Biblioteket 2D08",,,,,,,,
+2300,København S,IVA Biblioteket,Det Kgl. Bibliotek - København,"Njalsgade 76 ,,,,,
+Søndre Campus, bygning 5A",55.656189,Forskningsbibliotek,830010,12.598737,Det Informationsvidenskabelige Akademi,,,
 2200,København N,"Campusbibl, Sigurdsgade",PHB. Bibliotekerne ved professionshøjskolerne Metropol og UCC,Sigurdsgade 26,,Forskningsbibliotek,830060,,Campusbiblioteket Rådmandsmarken
 ,,,PHB. Bibliotekerne ved professionshøjskolerne Metropol og UCC,,,Forskningsbibliotek,830062,,Professionshøjskolen UCC - Bornholm. Biblioteket
 1799,København V,Campuslib. Carlsberg,PHB. Bibliotekerne ved professionshøjskolerne Metropol og UCC,Humletorvet 3,,Forskningsbibliotek,830063,,Campus Carlsberg
@@ -695,8 +695,8 @@ Søndre Campus, bygning 5A",55.656189,Forskningsbibliotek,830010,12.598737,Det I
 6000,Kolding,"UC SYD Bibl., Kolding",UC Syd Biblioteket,Dyrehavevej 116,55.4997515,Forskningsbibliotek,830500,9.4731599,"University College Syddanmark Biblioteket, Kolding"
 1970,Frederiksberg C,"DKDM, Biblioteket","Det Kgl. Danske Musikkonservatorium, Biblioteket",Rosenørns Allé 22,,Forskningsbibliotek,830520,,"Det Kgl. Danske Musikkonservatorium, Biblioteket"
 2750,Ballerup,DTU Ballerup,DTU Bibliotek. Danmarks Tekniske Informationscenter,Lautrupvang 15,,Forskningsbibliotek,830560,,"Danmarks Tekniske Informationscenter, Ballerup"
-5762,V.Skerninge,"Den frie lærerskole, Bibliotek","Den frie lærerskole, Biblioteket","Svendborgvej 15
-Ollerup",55.07103,Forskningsbibliotek,830600,10.506812,"Den frie lærerskole, Biblioteket"
+5762,V.Skerninge,"Den frie lærerskole, Bibliotek","Den frie lærerskole, Biblioteket","Svendborgvej 15,,,,,
+"Ollerup,55.07103,Forskningsbibliotek,830600,10.506812,Den frie lærerskole", Biblioteket",,,,,,,,
 9000,Aalborg,"DJM, Aalborg","Det Jyske Musikkonservatorium, Biblioteket",Musikkens Plads 1,,Forskningsbibliotek,830630,,"Det Jyske Musikkonservatorium, Aalborg, Biblioteket"
 7620,Lemvig,VIA UC Nørre Nissum,VIA UC Bibliotekerne,Svinget 5,56.54734,Forskningsbibliotek,830660,8.420313,VIA Studieværkstedet i Nørre Nissum
 5000,Odense C,BeklædningsfagskolenOdense,"Odense Fagskole, Biblioteket",Ørstedsgade 28,,Forskningsbibliotek,830680,,"Odense Fagskole, Biblioteket"
@@ -753,21 +753,21 @@ Ollerup",55.07103,Forskningsbibliotek,830600,10.506812,"Den frie lærerskole, Bi
 1150,København K,Teologisk Fakultetsbibliotek,Det Teologiske Fakultetsbibliotek,Købmagergade 44-46,,Forskningsbibliotek,840810,,Det Teologiske Fakultetsbibliotek
 8000,Århus C,"AU Library, Nobelparken","AU Library, Nobelparken",Jens Chr. Skous Vej 5,,Forskningsbibliotek,840930,,"AU Library, Nobelparken"
 5230,Odense M,"Biologisk Institut, Biblioteke","Biologisk Institut, Biblioteket",Campusvej 55,,Forskningsbibliotek,841020,,"Biologisk Institut, Biblioteket"
-8000,Århus C,,Institut for Fysiologi og Biofysik. Biblioteket,"Universitetsparken
-Bygning 160",,Forskningsbibliotek,841030,,Institut for Fysiologi og Biofysik. Biblioteket
+8000,Århus C,,Institut for Fysiologi og Biofysik. Biblioteket,"Universitetsparken,,,,,
+Bygning 160",,Forskningsbibliotek,841030,,Institut for Fysiologi og Biofysik. Biblioteket,,,,
  , ,,"Retsmedicinsk Institut, Biblioteket", ,,Forskningsbibliotek,841160,,"Retsmedicinsk Institut, Biblioteket"
-2800,Kgs. Lyngby,"DTU Miljø, Bibliotek","Institut for Vand & Miljøteknologi, Biblioteket","Miljøvej
-Bygning 113",,Forskningsbibliotek,841180,,"Institut for Vand & Miljøteknologi, Biblioteket"
+2800,Kgs. Lyngby,"DTU Miljø, Bibliotek","Institut for Vand & Miljøteknologi, Biblioteket","Miljøvej,,,,,
+"Bygning 113,,Forskningsbibliotek,841180,,Institut for Vand & Miljøteknologi", Biblioteket",,,,,,,,
 2800,Kgs. Lyngby,"DTU Compute, bibliotek",DTU Compute. Biblioteket. Danmarks Tekniske Universitet,Danmarks Tekniske Universitet,,Forskningsbibliotek,841210,,DTU Compute. Biblioteket
-8000,Århus C,"AU Library, Ny Munkegade",AU Library Katrinebjerg,"Ny Munkegade 118
-Bygning 1536, 2. etage",56.1664503,Forskningsbibliotek,841260,10.198699,"AU Library, Ny Munkegade"
-2800,Lyngby,,"DTU. Elektro, Automation and Control","Danmarks Tekniske Universistet, 
-Bygning 326, Elektrovej",,Forskningsbibliotek,841340,,"DTU, Elektro,Automation and Control. Biblioteket"
+8000,Århus C,"AU Library, Ny Munkegade",AU Library Katrinebjerg,"Ny Munkegade 118,,,,,
+Bygning 1536," 2. etage,56.1664503,Forskningsbibliotek,841260,10.198699,AU Library", Ny Munkegade",,,,,,,
+2800,Lyngby,,"DTU. Elektro, Automation and Control","Danmarks Tekniske Universistet, ,,,,
+Bygning 326," Elektrovej,,Forskningsbibliotek,841340,,DTU", Elektro,Automation and Control. Biblioteket",,,,,,
  , ,,"Center for Tyske Studier, Biblioteket", ,,Forskningsbibliotek,841370,,"Center for Tyske Studier, Biblioteket"
  , ,,"Institut for Litteratur, kultur og medier, Center for", ,,Forskningsbibliotek,841520,,"Institut for Litteratur, kultur og medier, Center for fransk og frankofone studier"
  , ,,"Institut for Kemiteknik, Biblioteket", ,,Forskningsbibliotek,841570,,"Institut for Kemiteknik, Biblioteket"
-8000,Aarhus C,AU Library - Kasernen,"AU Library, Nobelparken","Langelandsgade 151
-Bygning 1582",,Forskningsbibliotek,841660,,"AU Libray, Kasernen"
+8000,Aarhus C,AU Library - Kasernen,"AU Library, Nobelparken","Langelandsgade 151,,,,,
+"Bygning 1582,,Forskningsbibliotek,841660,,AU Libray", Kasernen",,,,,,,,
  , ,,"Biologisk Institut, Afdeling for Systematisk Botanik. Afdeling for Botanisk Økologi, Biblioteket", ,,Forskningsbibliotek,841690,,"Biologisk Institut, Afdeling forSystematisk Botanik, Afdeling forBotanisk Økologi, Biblioteket"
  , ,,"Ørsted DTU, Akustisk Teknologi Biblioteket", ,,Forskningsbibliotek,841870,,"Ørsted DTU, Akustisk Teknologi, Biblioteket"
 8270,Højbjerg,"AU Library, Moesgård","AU Library, Nobelparken",Moesgaard Alle 20,,Forskningsbibliotek,841920,,"AU Library, Moesgård"
@@ -776,12 +776,12 @@ Bygning 1582",,Forskningsbibliotek,841660,,"AU Libray, Kasernen"
  , ,,"Institut for Oto-, Rhino- Laryng- ologi, Biblioteket", ,,Forskningsbibliotek,842150,,"Institut for Oto-, Rhino- Laryngologi, Biblioteket"
  , ,,"DTU Elektro, Biblioteket", ,,Forskningsbibliotek,842470,,"DTU Elektro, Biblioteket"
  , ,,"Marinbiologisk Laboratorium, Biblioteket", ,,Forskningsbibliotek,842570,,"Marinbiologisk Laboratorium, Biblioteket"
-2800,Lyngby,"DTU-IPL, Biblioteket",DTU Management. Biblioteket,"Produktionstorvet
-Bygning 424",,Forskningsbibliotek,842820,,DTU Management. Biblioteket
-9220,Aalborg Øst,Center For Dansk Jazzhistorie,Center For Dansk Jazzhistorie. Biblioteket,"Aalborg Universitetscenter
-Kroghstræde 6",,Forskningsbibliotek,842910,,"Center For Dansk Jazzhistorie, Biblioteket"
-2200,København N,UCSF. Biblioteket,UCSF - Universitetshospitalernes Center for Sundhedsfaglig Forskning. Biblioteket,"Rigshospitalet, afsnit 7331
-Tagensvej 20",,Forskningsbibliotek,842930,,UCSF - Universitetshospitalernes Center for Sundhedsfaglig Forskning. Biblioteket
+2800,Lyngby,"DTU-IPL, Biblioteket",DTU Management. Biblioteket,"Produktionstorvet,,,,,
+Bygning 424",,Forskningsbibliotek,842820,,DTU Management. Biblioteket,,,,
+9220,Aalborg Øst,Center For Dansk Jazzhistorie,Center For Dansk Jazzhistorie. Biblioteket,"Aalborg Universitetscenter,,,,,
+"Kroghstræde 6,,Forskningsbibliotek,842910,,Center For Dansk Jazzhistorie", Biblioteket",,,,,,,,
+2200,København N,UCSF. Biblioteket,UCSF - Universitetshospitalernes Center for Sundhedsfaglig Forskning. Biblioteket,"Rigshospitalet, afsnit 7331,,,,
+Tagensvej 20",,Forskningsbibliotek,842930,,UCSF - Universitetshospitalernes Center for Sundhedsfaglig Forskning. Biblioteket,,,,
  , ,,"Afdelingen for Medicinsk Videnskabsteori, Biblioteket", ,,Forskningsbibliotek,843000,,"Afdelingen for Medicinsk Videnskabsteori, Biblioteket"
 1216,København K,Det Administrative Bibliotek,Det Kgl. Bibliotek - Det Administrative Bibliotek,Slotsholmsgade 12,55.6748711,Forskningsbibliotek,850010,12.584745,Det Kgl. Bibliotek - Det Administrative Bibliotek
 2630,Taastrup,Arbejderbevægelsens Bibliotek,Arbejdermuseet & Arbejderbevægelsens Bibliotek og Arkiv,Hørsvinget 5,55.660866,Forskningsbibliotek,850020,12.303565,Arbejdermuseet & Arbejderbevægelsens Bibliotek og Arkiv
@@ -831,8 +831,8 @@ Tagensvej 20",,Forskningsbibliotek,842930,,UCSF - Universitetshospitalernes Cent
 1401,København K,Polarbiblioteket,Københavns Universitet. Det Humanistiske Fakultet. Polarbiblioteket,Strandgade 102,55.6772229,Forskningsbibliotek,851470,12.5971624,Polarbiblioteket
 7700,Thisted,,"Sygehus NORD/Thisted-Nykøbing, Fagbiblioteket",Højtoftevej 2,,Forskningsbibliotek,851490,,"Sygehus Nord, Fagbiblioteket"
 ,,,"Sygehus NORD/Thisted-Nykøbing, Fagbiblioteket",,,Forskningsbibliotek,851491,,"Sygehus Nord, Afdelingen i Nykøbing Mors, Fagbiblioteket"
-9000,Aalborg,"Medicinsk Bibliotek, AalborgUH",Aalborg Universitetshospital. Medicinsk Bibliotek,"Forskningens Hus
-Sdr. Skovvej 15",,Forskningsbibliotek,851510,,Aalborg Universitetshospital. Medicinsk Bibliotek
+9000,Aalborg,"Medicinsk Bibliotek, AalborgUH",Aalborg Universitetshospital. Medicinsk Bibliotek,"Forskningens Hus,,,,,
+Sdr. Skovvej 15",,Forskningsbibliotek,851510,,Aalborg Universitetshospital. Medicinsk Bibliotek,,,,
  , ,"Dansk Data Arkiv, Biblioteket",Rigsarkivet. Odense, ,,Forskningsbibliotek,851540,,"Rigsarkivet, Odense"
  , ,,Østre Landsrets Bibliotek, ,,Forskningsbibliotek,851640,,Østre Landsrets Bibliotek
  , ,,"Gammeldansk Ordbog, Biblioteket", ,,Forskningsbibliotek,851660,,"Gammeldansk Ordbog, Biblioteket"
@@ -840,8 +840,8 @@ Sdr. Skovvej 15",,Forskningsbibliotek,851510,,Aalborg Universitetshospital. Medi
  , ,Ordbog over det norrøne prosas,Ordbog over det norrøne prosasprog. Nordisk Forskningsinstitut, ,,Forskningsbibliotek,851690,,Ordbog over det norrøne prosasprog. Nordisk Forskningsinstitut
 2100,København Ø,DIGNITY Dokumentationscenter,DIGNITY - Dansk Institut Mod Tortur. Dokumentationscenter og Bibliotek,Bryggervangen 55,,Forskningsbibliotek,851700,,DIGNITY - Dansk Institut Mod Tortur. Dokumentationscenter og Bibliotek
 3000,Helsingør,M/S Museet for Søfart,M/S Museet for Søfart,Ny Kronborgvej 1,,Forskningsbibliotek,851800,,M/S Museet for Søfart
-3400,Hillerød,Hillerød Hospital,Sundhedsvidenskabeligt Bibliotek. Nordsjællands Hospital,"Hillerød Hospital
-Dyrehavevej 29,",,Forskningsbibliotek,851870,,Sundhedsvidenskabeligt Bibliotek. Nordsjællands Hospital
+3400,Hillerød,Hillerød Hospital,Sundhedsvidenskabeligt Bibliotek. Nordsjællands Hospital,"Hillerød Hospital,,,,,
+Dyrehavevej 29,",,Forskningsbibliotek,851870,,Sundhedsvidenskabeligt Bibliotek. Nordsjællands Hospital,,,
  , ,,Frihedsmuseets Bibliotek, ,,Forskningsbibliotek,851930,,Frihedsmuseets Bibliotek
 3700,Rønne,Bornholms Museum,Bornholms Museum,Sct. Mortens Gade 29,,Forskningsbibliotek,852000,,Bornholms Museum
  , ,,Nordens Velfærdscenter. Biblioteket, ,,Forskningsbibliotek,852120,,Nordens Velfærdscenter. Biblioteket
@@ -867,11 +867,11 @@ Dyrehavevej 29,",,Forskningsbibliotek,851870,,Sundhedsvidenskabeligt Bibliotek. 
  , ,,"Vestre Landsret, Biblioteket", ,,Forskningsbibliotek,852690,,"Vestre Landsret, Biblioteket"
 9000,Aalborg,KUNSTENs Bibliotek & Arkiv,KUNSTENs Bibliotek & Arkiv,Kong Christian Allé 50,,Forskningsbibliotek,852730,,KUNSTENs Bibliotek & Arkiv
 6000,Kolding,,"Museet på Koldinghus, Biblioteket",,,Forskningsbibliotek,852750,,"Museet på Koldinghus, Biblioteket"
-6000,Kolding,,"Trapholt, Biblioteket","Æblehaven 23
-Strandhuse",,Forskningsbibliotek,852760,,"Trapholt, Biblioteket"
+6000,Kolding,,"Trapholt, Biblioteket","Æblehaven 23,,,,,
+"Strandhuse,,Forskningsbibliotek,852760,,Trapholt", Biblioteket",,,,,,,,
 3953,"Qeqertarsuaq, Grønland","Arktisk Station, Bibl.","Arktisk Station, Biblioteks Sekretariat",P.O. Box 504,,Forskningsbibliotek,852770,,"Arktisk Station, Biblioteks Sekretariat"
-0999,København C,DR Arkiv - Bibliotek,DR Arkiv og Proces - Bibliotek,"DR Byen
-Emil Holms Kanal 20",,Forskningsbibliotek,860030,,DR Arkiv - Bibliotek
+0999,København C,DR Arkiv - Bibliotek,DR Arkiv og Proces - Bibliotek,"DR Byen,,,,,
+Emil Holms Kanal 20",,Forskningsbibliotek,860030,,DR Arkiv - Bibliotek,,,,
 1240,København K,Folketingets Bibliotek,"Folketingets Bibliotek, Arkiv og Oplysning",Christiansborg,55.6771298,Forskningsbibliotek,860100,12.5804729,"Folketingets Bibliotek, Arkiv og Oplysning"
  , ,,Det Kongelige Danske Videnskabernes Selskab. Biblioteket, ,,Forskningsbibliotek,860110,,"Det Kongelige Danske Videnskabernes Selskab, Biblioteket"
 1055,København K,Det Kongelige Teaters Arkiv og,Det Kongelige Teaters Arkiv og Bibliotek,Tordenskjoldsgade 3,,Forskningsbibliotek,860120,,Det Kongelige Teaters Arkiv og Bibliotek
@@ -964,8 +964,8 @@ Emil Holms Kanal 20",,Forskningsbibliotek,860030,,DR Arkiv - Bibliotek
 4600,Køge,Køge handelsskoles Bibliotek,"Køge Handelsskole, Biblioteket",Lyngvej 19,,Forskningsbibliotek,862150,,"Køge Handelsskole, Biblioteket"
 5500,Middelfart,Psykiatrisk Informationscenter,Psykiatrisk Informationscenter,Teglgårdsparken 26,,Forskningsbibliotek,862190,,Psykiatrisk Informationscenter
 2750,Ballerup,recovery,Kompetencecenter for Rehabilitering og Recovery,Maglevænget 2,,Forskningsbibliotek,862210,,Kompetencecenter for Rehabilitering og Recovery
-1780,København V,PSKBIB,Politiskolens Bibliotek,"Politiskolen
-Polititorvet 14",,Forskningsbibliotek,862220,,Politiskolens Bibliotek
+1780,København V,PSKBIB,Politiskolens Bibliotek,"Politiskolen,,,,,
+Polititorvet 14",,Forskningsbibliotek,862220,,Politiskolens Bibliotek,,,,
 7800,Skive,Skive Handelsskole,"Skive Handelsskole, Biblioteket",Arvikavej 2,56.554601,Forskningsbibliotek,870110,9.022479,"Skive Handelsskole, Biblioteket"
 6600,Vejen,Vejen Handelsskole,"Vejen Business College, Biblioteket",Jyllandsgade 11,,Forskningsbibliotek,871740,,"Vejen Business College, Biblioteket"
 ,,,"Dansk Veteranbil Klub, Biblioteket",,,Forskningsbibliotek,871780,,"Dansk Veteranbil Klub, Biblioteket"
@@ -982,10 +982,10 @@ Polititorvet 14",,Forskningsbibliotek,862220,,Politiskolens Bibliotek
 3400,Hillerød,,"Frederiksborg Gymnasium og HF, Studiecentret",Carlsbergvej 15,,Forskningsbibliotek,872040,,"Frederiksborg Gymnasium og HF, Studiecentret"
 9530,Støvring,"Støvring Gymnasium, Bibliotek","Støvring Gymnasium, Biblioteket",Mastrupvej 77,56.88053,Forskningsbibliotek,872050,9.82992,"Støvring Gymnasium, Biblioteket"
 9800,Hjørring,"Hjørring Gymnasium, Biblioteke","Hjørring Gymnasium og HF-kursus, Biblioteket",Skolevangen 23,,Forskningsbibliotek,872060,,"Hjørring Gymnasium og HF-kursus, Biblioteket"
-4000,Roskilde,,"Himmelev Gymnasium, Biblioteket","Herregårdsvej 30
-Himmelev",,Forskningsbibliotek,872070,,"Himmelev Gymnasium, Biblioteket"
-9100,Aalborg,"Hasseris Gymnasium, Biblioteke","Hasseris Gymnasium, Biblioteket","Hasserisvej 300
-Postboks 70",57.0488195,Forskningsbibliotek,872080,9.921747,"Hasseris Gymnasium, Biblioteket"
+4000,Roskilde,,"Himmelev Gymnasium, Biblioteket","Herregårdsvej 30,,,,,
+"Himmelev,,Forskningsbibliotek,872070,,Himmelev Gymnasium", Biblioteket",,,,,,,,
+9100,Aalborg,"Hasseris Gymnasium, Biblioteke","Hasseris Gymnasium, Biblioteket","Hasserisvej 300,,,,,
+"Postboks 70,57.0488195,Forskningsbibliotek,872080,9.921747,Hasseris Gymnasium", Biblioteket",,,,,,,,
 9700,Brønderslev,Brønderslev Gym. bibliotek,"Brønderslev Gymnasium og HF-Kursus, Biblioteket",Islands Alle 20,57.27855,Forskningsbibliotek,872090,9.943748,"Brønderslev Gymnasium og HF-Kursus, Biblioteket"
 9600,Aars,Vesthimmerlands Gymnasium & HF,"Vesthimmerlands Gymnasium & HF, Biblioteket",Jyllandsgade 52,56.80115,Forskningsbibliotek,872100,9.522762,"Vesthimmerlands Gymnasium & HF, Biblioteket"
 9000,Aalborg,Aalborghus Gymnasium,"Aalborghus Gymnasium, Biblioteket",Sohngaardsholmsvej 60,57.025801,Forskningsbibliotek,872140,9.942754,"Aalborghus Gymnasium, Biblioteket"
@@ -1084,8 +1084,8 @@ Postboks 70",57.0488195,Forskningsbibliotek,872080,9.921747,"Hasseris Gymnasium,
 4700,Næstved,Næstved Gymnasium og HF,Næstved Gymnasium og HF. Biblioteket,Nygårdsvej 43,55.218796,Forskningsbibliotek,874480,11.768075,Næstved Gymnasium og HF. Biblioteket
 5220,Odense Sø.,Tornbjerg Gymnasium,"Tornbjerg Gymnasium, Studiecenteret",Skærmhatten 15,,Forskningsbibliotek,874500,,"Tornbjerg Gymnasium, Studiecenteret"
 5240,Odense Nø.,,"Mulernes Legatskole, Biblioteket","Biblioteket, Gillestedvej 11",,Forskningsbibliotek,874510,,"Mulernes Legatskole, Biblioteket"
-6705,Esbjerg Ø,Esbjerg Gymnasium og HF Kursus,Esbjerg Gymnasium. Biblioteket,"Spangsbjerg Møllevej 310
-Postboks 2059",,Forskningsbibliotek,874530,,"Esbjerg Gymnasium og HF Kursus, Biblioteket"
+6705,Esbjerg Ø,Esbjerg Gymnasium og HF Kursus,Esbjerg Gymnasium. Biblioteket,"Spangsbjerg Møllevej 310,,,,,
+"Postboks 2059,,Forskningsbibliotek,874530,,Esbjerg Gymnasium og HF Kursus", Biblioteket",,,,,,,,
 ,,,"Horsens Statsskole, Biblioteket",,,Forskningsbibliotek,874540,,"Horsens Statsskole, Biblioteket"
 6000,Kolding,Munkensdam Gymnasium,"Munkensdam Gymnasium, Biblioteket",Tøndervej 100,,Forskningsbibliotek,874550,,"Munkensdam Gymnasium, Biblioteket"
 7400,Herning,"Herning Gymnasium, Mediateket","Herning Gymnasium, Biblioteket",H.P. Hansens Vej 8,,Forskningsbibliotek,874560,,"Herning Gymnasium, Biblioteket"
@@ -1103,8 +1103,8 @@ Postboks 2059",,Forskningsbibliotek,874530,,"Esbjerg Gymnasium og HF Kursus, Bib
 ,,,Deutsche Büchereizentrale und Zentralbücherei Apenrade,,,Forskningsbibliotek,874832,,Deutsche Büchereizentrale und Zentralbücherei Apenrade. Filial Sønderborg
 ,,,Deutsche Büchereizentrale und Zentralbücherei Apenrade,,,Forskningsbibliotek,874833,,Deutsche Büchereizentrale und Zentralbücherei Apenrade. Filial Tinglev
 ,,,Deutsche Büchereizentrale und Zentralbücherei Apenrade,,,Forskningsbibliotek,874834,,Deutsche Büchereizentrale und Zentralbücherei Apenrade. Filial Tønder
-4000,Roskilde,RTS Biblioteket,HTX Roskilde. Biblioteket,"Pulsen 4
-Postbox 132",55.64191,Forskningsbibliotek,874840,12.087845,HTX Roskildes Bibliotek
+4000,Roskilde,RTS Biblioteket,HTX Roskilde. Biblioteket,"Pulsen 4,,,,,
+Postbox 132",55.64191,Forskningsbibliotek,874840,12.087845,HTX Roskildes Bibliotek,,,,
 ,,,"Danmarks Grundforskningsfond, Biblioteket",,,Forskningsbibliotek,874860,,"Danmarks Grundforskningsfond, Biblioteket"
 4300,Holbæk,Holbæk Sygehus,"Holbæk Sygehus, Fagbiblioteket",Smedelundsgade 60,,Forskningsbibliotek,874960,,"Holbæk Sygehus, Fagbiblioteket"
 6100,Haderslev,Arkæologi,Museum Sønderjylland. Biblioteket,Dalgade 7,,Forskningsbibliotek,874970,,Museum Sønderjylland. Biblioteket
@@ -1206,7 +1206,7 @@ S-751 47,"Uppsala, Sverige",Nordiska Afrikainstitutet,"Nordiska Afrikainstitutet
 FO-110,Torshavn,Føroya Landsbokasavn,Føroya Landsbokasavn,"J.C. Svabosgøtu 16, P.O.Box 61",,Forskningsbibliotek,900450,,Føroya Landsbokasavn
 620,Runavik,Bókasavnið við Løkin,Bókasavnið við Løkin,Rókavegur 1,,Folkebibliotek,900455,,Bókasavnið við Løkin
 FO 100,Tórshavn,Býarbókasavnið,Býarbókasavnið,Niels Finsens gøtu 7,,Forskningsbibliotek,911116,,Býarbókasavnið
-3900,Nuuk,Nunatta Atuagaateqarfia/Det Gr,Nunatta Atuagaateqarfia/Det grønlandske Landsbibliotek,"Postboks 1011
-Imaneq 26",,Forskningsbibliotek,911130,,Nunatta Atuagaateqarfia/Det grønlandske Landsbibliotek
-3900,Nuuk - GL,Grønlands Nationalbibliotek,Grønlands Nationalbibliotek,"Manutooq 1
-Postboks 1074",,Forskningsbibliotek,911146,,Grønlands Nationalbibliotek
+3900,Nuuk,Nunatta Atuagaateqarfia/Det Gr,Nunatta Atuagaateqarfia/Det grønlandske Landsbibliotek,"Postboks 1011,,,,,
+Imaneq 26",,Forskningsbibliotek,911130,,Nunatta Atuagaateqarfia/Det grønlandske Landsbibliotek,,,,
+3900,Nuuk - GL,Grønlands Nationalbibliotek,Grønlands Nationalbibliotek,"Manutooq 1,,,,,
+Postboks 1074",,Forskningsbibliotek,911146,,Grønlands Nationalbibliotek,,,,
