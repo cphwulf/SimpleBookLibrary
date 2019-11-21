@@ -1,14 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package simplebooklibrary;
 
-/**
- *
- * @author thor
- */
 public class Library implements Comparable<Object>{
 	//postnr,by,kortnavn,væsensnavn,adresse,latitude,bibliotekstype,id,longitude,navn
 //	1420,København K,Christianshavn,Københavns Biblioteker,Dronningensgade 53,55.6723406,Folkebibliotek,710106,12.5921292,Christi     anshavns Bibliotek
@@ -68,18 +59,8 @@ public class Library implements Comparable<Object>{
 
 	@Override
 	public int compareTo(Object o) {
-		// postalcode
-		Library tmpO = (Library) o;
-		return this.getLatitude().compareTo(tmpO.getLatitude());
-	}
-	public String toString() {
-		String msg = "";
-		msg += city + "; ";
-		msg += shortName + "; ";
-		msg += longName + "; ";
-		msg += latitude + "; ";
-		msg += longitude + "; ";
-		return msg;
+		// TODO: write compare on latitude
+		return 0;
 	}
 
 	
